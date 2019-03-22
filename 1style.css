@@ -1,0 +1,35 @@
+ 
+
+body {
+    background-color: aquamarine;
+    margin: 130px;
+    text-align: center;
+    font-family:'Merriweather', serif; 
+}
+
+h1
+   {
+    width:10%;
+    margin: 0 auto 0 auto;
+    font-family:'Sacramento', cursive;
+    }
+   
+h2
+{ 
+    font-family:'Montserrat', Arial, Helvetica, sans-serif;
+ }
+
+h3
+{
+     font-family: 'Montserrat', sans-serif;
+    }
+
+.middle-container
+{
+    border-block-end-color: bisque; 
+}
+.bottom-container
+{
+    border-block-end-width:10px;
+    
+ }
